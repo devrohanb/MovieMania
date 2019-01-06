@@ -62,9 +62,22 @@ public class MainActivity extends AppCompatActivity implements ExampleAdapter.On
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        Intent intent = new Intent(this,AboutUs.class);
-        startActivity(intent);
-        return true;
+        switch (item.getItemId())
+        {
+            case R.id.item0:
+                Intent intent = new Intent(this, UserProfileActivity.class);
+                startActivity(intent);
+                return true;
+
+            case R.id.item1:
+                intent = new Intent(this, AboutUs.class);
+                startActivity(intent);
+                return true;
+
+                default:
+                    return super.onOptionsItemSelected(item);
+        }
+
     }
 
     private void parseJSON()
