@@ -4,9 +4,7 @@ which shows new released and upcoming hollywood movies .
 with movie description , release date , poster and ratings. 
 It uses TMDB REST API. It uses multiple libraries and tools like Volley , Picasso , cardView etc .
 
-<img src=="ss4.png" width=400 height=650>
 
-<img src=="ss3.png" width=400 height=650>
 
 <img src="ss1.png" width=400 height=650>
 
@@ -15,3 +13,7 @@ It uses TMDB REST API. It uses multiple libraries and tools like Volley , Picass
 <img src="ss5.png" width=400 height=650>
 
 <img src="ss6.png" width=400 height=650>
+
+<img src=="ss4.png" width=400 height=650>
+
+<img src=="ss3.png" width=400 height=650>
