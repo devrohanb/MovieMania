@@ -14,6 +14,6 @@ It uses TMDB REST API. It uses multiple libraries and tools like Volley , Picass
 
 <img src="ss6.png" width=400 height=650>
 
-<img src=="ss4.png" width=400 height=650>
+<img src="ss4.png" width=400 height=650>
 
-<img src=="ss3.png" width=400 height=650>
+<img src="ss3.png" width=400 height=650>
